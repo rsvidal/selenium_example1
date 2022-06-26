@@ -13,3 +13,14 @@ Al ejecutar la tarea de test de Gradle, Selenium levantará un Chrome usando el 
 * Borrar las tareas completadas
 
 ![Todomvc Tests](./todomvc-tests.gif)
+
+##Notas de Rafael San Vidal Hidalgo
+
+[Tutorial Selenium en Jenkins](https://www.adictosaltrabajo.com/tutoriales/testing-funcional-con-selenium-en-jenkins/)
+Nota: Desde este proyecto se puede emplear Gradle Wrapper, sin necesidad de tener que instalar 'Gradle'
+
+[Tutorial Selenium](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-selenium-webdriver)
+Nota: Este tutorial crea un proyecto Python. Para ello me he descargado pip e instalado selenium usando pip
+
+1. Descarga de pip: python.exe get-pip.py (ubicado en proyectos_Python)
+2. instalación de Selenium: pip install selenium
