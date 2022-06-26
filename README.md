@@ -14,7 +14,7 @@ Al ejecutar la tarea de test de Gradle, Selenium levantará un Chrome usando el 
 
 ![Todomvc Tests](./todomvc-tests.gif)
 
-##Notas de Rafael San Vidal Hidalgo
+## Notas de Rafael San Vidal Hidalgo
 
 [Tutorial Selenium en Jenkins](https://www.adictosaltrabajo.com/tutoriales/testing-funcional-con-selenium-en-jenkins/)
 Nota: Desde este proyecto se puede emplear Gradle Wrapper, sin necesidad de tener que instalar 'Gradle'
